@@ -1,0 +1,24 @@
+﻿**/obj/
+**/bin/
+
+**/.env
+
+Test
+
+# Editor directories and files
+.vscode
+.vs
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.containers
+.files
+
+docker-compose.yml
+docker-compose.dcproj
+docker-compose.override.yml
